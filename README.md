@@ -1,2 +1,5 @@
-# Kalkulator-Bandul-Matematis
-Kalkulator Bandul Matematis untuk Praktikum Fisika Dasar
+# Mathematical Pendulum Calculator
+Eg: For Basic Physics Lab Work
+Indo: Kalkulator Bandul Matematis untuk Praktikum Fisika Dasar
+
+Credit: LyFromQixing
